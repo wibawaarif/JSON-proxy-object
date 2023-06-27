@@ -1,5 +1,9 @@
 # Exercise from https://codedamn.com/project/jsonproxyholder
 
+<p align="center">
+  <img height="60%" width="100%" src="./Page.png" alt="Page Overview">
+</p>
+
 ## Project Introduction
 
 Welcome to the JSONProxyHolder backend project on codedamn. In this project, you're supposed to work with a popular JSON placeholder API - https://jsonplaceholder.typicode.com/guide/
