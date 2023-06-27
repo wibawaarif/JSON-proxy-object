@@ -1,0 +1,32 @@
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+  justify-content: center;
+}
+
+.body-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+}
+
+.main-wrapper {
+  width: 100%;
+  border: 2px solid white;
+  border-radius: 10px;
+  padding: 10px 40px;
+}
+
+.title {
+  color: grey;
+}
+
+.description {
+  color: white;
+}
+
+.title:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
